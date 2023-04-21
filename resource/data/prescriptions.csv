@@ -1,0 +1,4 @@
+Age, Pregnant, Allergies, Weight, Prescription
+56,Y,"[1, 4]",45.0,Erythromycin | 250 mg to 500 mg | four times a day for 5 days
+45,Y,"[1, 2, 3]",45.0,Erythromycin | 500 mg to 1000 mg | twice a day for 5 days
+45,Y,[],45.0,Amoxicillin | 500 mg | three times a day for 5 days
